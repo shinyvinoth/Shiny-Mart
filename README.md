@@ -1,2 +1,2 @@
-# Shiny-Mart
-Java-based online healthcare essentials shopping website
+# Shiny-mart
+Java Servlet based multi-seller e-commerce marketplace
